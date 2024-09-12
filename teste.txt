@@ -3,3 +3,7 @@ Testes da aplicação:
 Teste appflask local - ok
 Teste imagem local - ok 
 Teste container - ?
+Teste git actions - 
+Teste trivy - 
+Teste sonar cloud - 
+Helm - 
